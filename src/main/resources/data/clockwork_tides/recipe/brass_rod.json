@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    },
+    "R": {
+      "item": "clockwork_tides:copper_rod"
+    },
+    "C": {
+      "item": "create:cogwheel"
+    }
+  },
+  "pattern": [
+    " BP",
+    "BRB",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "id": "clockwork_tides:brass_rod"
+  }
+}

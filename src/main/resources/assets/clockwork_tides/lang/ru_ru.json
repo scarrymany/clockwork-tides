@@ -1,0 +1,12 @@
+{
+  "itemGroup.clockwork_tides": "Clockwork Tides",
+  "item.clockwork_tides.andesite_rod": "Андезитовая удочка",
+  "item.clockwork_tides.copper_rod": "Медная удочка",
+  "item.clockwork_tides.brass_rod": "Латунная удочка",
+  "item.clockwork_tides.andesite_rod.tooltip": "Прочная снасть: шанс выловить простые материалы для мастерской.",
+  "item.clockwork_tides.copper_rod.tooltip": "Рыбацкая снасть: шанс поймать дополнительную рыбу.",
+  "item.clockwork_tides.brass_rod.tooltip": "Точная снасть: шанс выловить небольшие детали Create.",
+  "tooltip.clockwork_tides.open_water": "Дополнительный улов возможен только при успешной рыбалке в открытой воде.",
+  "tooltip.clockwork_tides.vanilla_loot": "Обычный рыболовный улов сохраняется.",
+  "tooltip.clockwork_tides.upgrade": "Улучшение на верстаке не сохраняет чары и собственное имя."
+}

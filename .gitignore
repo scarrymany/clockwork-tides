@@ -1,0 +1,18 @@
+.gradle/
+.gradle-home/
+build/
+run/
+test-tools/
+dependency-cache/
+assets-production/
+*.log
+.idea/
+*.iml
+out/
+
+!docs/test-evidence/*.log
+docs/media/clockwork-tides-gameplay.mp4
+dist/
+
+# Optional CI templates are local-only: current publishing OAuth lacks workflow scope.
+.github/workflows/

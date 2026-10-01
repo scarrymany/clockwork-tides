@@ -1,0 +1,12 @@
+{
+  "itemGroup.clockwork_tides": "Clockwork Tides",
+  "item.clockwork_tides.andesite_rod": "Andesite Fishing Rod",
+  "item.clockwork_tides.copper_rod": "Copper Fishing Rod",
+  "item.clockwork_tides.brass_rod": "Brass Fishing Rod",
+  "item.clockwork_tides.andesite_rod.tooltip": "Sturdy tackle: a chance to recover common workshop materials.",
+  "item.clockwork_tides.copper_rod.tooltip": "Angler’s tackle: a chance to reel in an extra fish.",
+  "item.clockwork_tides.brass_rod.tooltip": "Precision tackle: a chance to salvage small Create components.",
+  "tooltip.clockwork_tides.open_water": "Bonus catches require successful fishing in open water.",
+  "tooltip.clockwork_tides.vanilla_loot": "Normal fishing loot is preserved.",
+  "tooltip.clockwork_tides.upgrade": "Crafting an upgrade does not preserve enchantments or custom names."
+}

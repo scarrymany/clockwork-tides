@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "clockwork_tides:andesite_rod",
+    "clockwork_tides:copper_rod",
+    "clockwork_tides:brass_rod"
+  ]
+}

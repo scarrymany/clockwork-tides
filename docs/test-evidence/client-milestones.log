@@ -1,0 +1,22 @@
+[06:28:41] [Render thread/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE world requested
+[06:28:42] [Server thread/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE pond and dock built, rods equipped
+[06:28:44] [IO-Worker-4/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 01-andesite-uncast.png Saved screenshot as 01-andesite-uncast.png
+[06:28:49] [IO-Worker-4/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 02-andesite-cast.png Saved screenshot as 02-andesite-cast.png
+[06:29:02] [Render thread/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE selected rod slot 1
+[06:29:04] [IO-Worker-3/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 03-copper-uncast.png Saved screenshot as 03-copper-uncast.png
+[06:29:09] [IO-Worker-3/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 04-copper-cast.png Saved screenshot as 04-copper-cast.png
+[06:29:15] [Render thread/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE natural bite 1 rod=1 clockwork_tides:copper_rod
+[06:29:15] [Server thread/INFO] [minecraft/MinecraftServer]: Dev has made the advancement [Fishy Business]
+[06:29:15] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Dev has made the advancement [Fishy Business]
+[06:29:15] [IO-Worker-1/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot natural-catch-1.png Saved screenshot as natural-catch-1.png
+[06:29:22] [Render thread/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE selected rod slot 2
+[06:29:24] [IO-Worker-1/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 05-brass-uncast.png Saved screenshot as 05-brass-uncast.png
+[06:29:29] [IO-Worker-1/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 06-brass-cast.png Saved screenshot as 06-brass-cast.png
+[06:29:40] [IO-Worker-1/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 07-all-three-rods-inventory.png Saved screenshot as 07-all-three-rods-inventory.png
+[06:29:44] [IO-Worker-1/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE screenshot 08-dock-final.png Saved screenshot as 08-dock-final.png
+[06:29:49] [Server thread/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE Showcase complete. Natural bites reeled: 1
+[06:29:50] [Render thread/INFO] [de.cl.qa.ShowcaseClient/]: CLOCKWORK_SHOWCASE graceful stop requested
+[06:29:52] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (Clockwork Tides Showcase 1790825318067): All chunks are saved
+[06:29:52] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:29:52] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+BUILD SUCCESSFUL in 1m 33s

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "create:copper_sheet"
+    },
+    "A": {
+      "item": "clockwork_tides:andesite_rod"
+    },
+    "R": {
+      "item": "create:polished_rose_quartz"
+    },
+    "C": {
+      "item": "create:cogwheel"
+    }
+  },
+  "pattern": [
+    " SS",
+    " AR",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "id": "clockwork_tides:copper_rod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "R": {
+      "item": "minecraft:fishing_rod"
+    }
+  },
+  "pattern": [
+    " AA",
+    " CS",
+    "R S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "clockwork_tides:andesite_rod"
+  }
+}

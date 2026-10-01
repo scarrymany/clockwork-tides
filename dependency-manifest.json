@@ -1,0 +1,26 @@
+{
+  "minecraft": "1.21.1",
+  "java": 21,
+  "neoforge": "21.1.219",
+  "create": {
+    "version": "6.0.10",
+    "development_version": "6.0.10-280",
+    "filename": "create-1.21.1-6.0.10.jar",
+    "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+    "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+    "bundled_libraries": {
+      "ponder": "1.0.82",
+      "flywheel": "1.0.6",
+      "registrate": "MC1.21-1.3.0+67"
+    },
+    "redistributed": false,
+    "size_bytes": 19123767,
+    "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+    "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
+  },
+  "sources": [
+    "https://wiki.createmod.net/developers/depend-on-create/neoforge-1.21.1",
+    "https://github.com/Creators-of-Create/Create/blob/mc1.21.1-6.0.10/gradle.properties",
+    "https://modrinth.com/mod/create/version/UjX6dr61"
+  ]
+}

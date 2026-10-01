@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "clockwork_tides:item/andesite_rod"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "minecraft:cast": 1
+      },
+      "model": "clockwork_tides:item/andesite_rod_cast"
+    }
+  ]
+}
