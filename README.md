@@ -27,6 +27,37 @@ Normal Minecraft fishing loot remains intact. A legitimate catch in open water m
 - No biome/world generation changes, custom network protocol, or forced replacement of vanilla fishing tables
 - English and Russian names, descriptions and documentation
 
+## Craft each rod / Крафт каждой удочки
+
+Exact 3×3 crafting-table layouts from the shipped recipes. Blank slots remain empty.
+Точные схемы верстака 3×3 из мода. Пустые ячейки оставьте пустыми.
+
+### 1. Andesite / Андезитовая
+
+![Andesite rod recipe: row 1 empty, alloy, alloy; row 2 empty, cogwheel, string; row 3 fishing rod, empty, string. Output one andesite rod.](docs/recipes/andesite-rod-recipe.png)
+
+2× Andesite Alloy / андезитовый сплав · 1× Cogwheel / шестерня · 2× String / нить · 1× Fishing Rod / удочка
+[Exact recipe JSON](src/main/resources/data/clockwork_tides/recipe/andesite_rod.json) · [Full-size SVG](docs/recipes/andesite-rod-recipe.svg)
+
+### 2. Copper / Медная
+
+![Copper rod recipe: row 1 empty, copper sheet, copper sheet; row 2 empty, andesite rod, polished rose quartz; row 3 empty, cogwheel, empty. Output one copper rod.](docs/recipes/copper-rod-recipe.png)
+
+2× Copper Sheet / медный лист · 1× Andesite Rod / андезитовая удочка · 1× Polished Rose Quartz / полированный розовый кварц · 1× Cogwheel / шестерня
+[Exact recipe JSON](src/main/resources/data/clockwork_tides/recipe/copper_rod.json) · [Full-size SVG](docs/recipes/copper-rod-recipe.svg)
+
+### 3. Brass / Латунная
+
+![Brass rod recipe: row 1 empty, brass sheet, precision mechanism; row 2 brass sheet, copper rod, brass sheet; row 3 empty, cogwheel, empty. Output one brass rod.](docs/recipes/brass-rod-recipe.png)
+
+3× Brass Sheet / латунный лист · 1× Precision Mechanism / механизм точности · 1× Copper Rod / медная удочка · 1× Cogwheel / шестерня
+[Exact recipe JSON](src/main/resources/data/clockwork_tides/recipe/brass_rod.json) · [Full-size SVG](docs/recipes/brass-rod-recipe.svg)
+
+**Craft before enchanting:** upgrades consume the previous rod and reset its enchantments and custom name.
+**Сначала крафт, потом чары:** улучшение расходует старую удочку и сбрасывает её зачарования и имя.
+
+Small item illustrations in these tutorial diagrams retain their respective Minecraft/Create artwork rights; see [attribution](THIRD-PARTY-NOTICES.md#recipe-tutorial-illustrations).
+
 ## Install
 
 **Easiest:** import the included `.mrpack` in Prism Launcher or Modrinth App. It contains our addon and downloads the pinned official Create release plus Minecraft/NeoForge through the launcher. Use your licensed Minecraft account.

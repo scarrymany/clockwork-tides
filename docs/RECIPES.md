@@ -6,6 +6,10 @@ Target: Minecraft 1.21.1, NeoForge, Create 6.0.10. All recipes produce one rod i
 
 ## 1. Andesite Fishing Rod / Андезитовая удочка
 
+![Andesite fishing rod — exact 3×3 recipe / Андезитовая удочка — точная схема](recipes/andesite-rod-recipe.png)
+
+[Vector diagram / Векторная схема](recipes/andesite-rod-recipe.svg) · [Recipe JSON](../src/main/resources/data/clockwork_tides/recipe/andesite_rod.json)
+
 ```text
  AA
  CS
@@ -21,6 +25,10 @@ R S
 - Anvil repair material: Andesite Alloy
 
 ## 2. Copper Fishing Rod / Медная удочка
+
+![Copper fishing rod — exact 3×3 recipe / Медная удочка — точная схема](recipes/copper-rod-recipe.png)
+
+[Vector diagram / Векторная схема](recipes/copper-rod-recipe.svg) · [Recipe JSON](../src/main/resources/data/clockwork_tides/recipe/copper_rod.json)
 
 ```text
  SS
@@ -38,6 +46,10 @@ R S
 
 ## 3. Brass Fishing Rod / Латунная удочка
 
+![Brass fishing rod — exact 3×3 recipe / Латунная удочка — точная схема](recipes/brass-rod-recipe.png)
+
+[Vector diagram / Векторная схема](recipes/brass-rod-recipe.svg) · [Recipe JSON](../src/main/resources/data/clockwork_tides/recipe/brass_rod.json)
+
 ```text
  BP
 BRB
@@ -45,7 +57,7 @@ BRB
 ```
 
 - B ×3: `create:brass_sheet` — Brass Sheet / Латунный лист
-- P ×1: `create:precision_mechanism` — Precision Mechanism / Точный механизм
+- P ×1: `create:precision_mechanism` — Precision Mechanism / Механизм точности
 - R ×1: `clockwork_tides:copper_rod` — Copper Fishing Rod / Медная удочка
 - C ×1: `create:cogwheel` — Cogwheel / Шестерня
 - Output: `clockwork_tides:brass_rod`, durability 384, enchantability 18

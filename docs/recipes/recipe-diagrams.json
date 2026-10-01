@@ -1,0 +1,95 @@
+[
+  {
+    "recipe": "andesite_rod",
+    "source": "src/main/resources/data/clockwork_tides/recipe/andesite_rod.json",
+    "cells": [
+      [
+        null,
+        "create:andesite_alloy",
+        "create:andesite_alloy"
+      ],
+      [
+        null,
+        "create:cogwheel",
+        "minecraft:string"
+      ],
+      [
+        "minecraft:fishing_rod",
+        null,
+        "minecraft:string"
+      ]
+    ],
+    "ingredients": {
+      "create:andesite_alloy": 2,
+      "create:cogwheel": 1,
+      "minecraft:string": 2,
+      "minecraft:fishing_rod": 1
+    },
+    "result": {
+      "count": 1,
+      "id": "clockwork_tides:andesite_rod"
+    }
+  },
+  {
+    "recipe": "copper_rod",
+    "source": "src/main/resources/data/clockwork_tides/recipe/copper_rod.json",
+    "cells": [
+      [
+        null,
+        "create:copper_sheet",
+        "create:copper_sheet"
+      ],
+      [
+        null,
+        "clockwork_tides:andesite_rod",
+        "create:polished_rose_quartz"
+      ],
+      [
+        null,
+        "create:cogwheel",
+        null
+      ]
+    ],
+    "ingredients": {
+      "create:copper_sheet": 2,
+      "clockwork_tides:andesite_rod": 1,
+      "create:polished_rose_quartz": 1,
+      "create:cogwheel": 1
+    },
+    "result": {
+      "count": 1,
+      "id": "clockwork_tides:copper_rod"
+    }
+  },
+  {
+    "recipe": "brass_rod",
+    "source": "src/main/resources/data/clockwork_tides/recipe/brass_rod.json",
+    "cells": [
+      [
+        null,
+        "create:brass_sheet",
+        "create:precision_mechanism"
+      ],
+      [
+        "create:brass_sheet",
+        "clockwork_tides:copper_rod",
+        "create:brass_sheet"
+      ],
+      [
+        null,
+        "create:cogwheel",
+        null
+      ]
+    ],
+    "ingredients": {
+      "create:brass_sheet": 3,
+      "create:precision_mechanism": 1,
+      "clockwork_tides:copper_rod": 1,
+      "create:cogwheel": 1
+    },
+    "result": {
+      "count": 1,
+      "id": "clockwork_tides:brass_rod"
+    }
+  }
+]

@@ -15,3 +15,9 @@ Our source and original rod artwork are distributed under MIT (see LICENSE). Art
 
 The Gradle wrapper is distributed under Apache-2.0, with its original copyright headers. https://github.com/gradle/gradle/blob/master/LICENSE
 NeoForge's ModDevGradle supplies the development runtime. Downloaded Minecraft code, runtime assets, caches and third-party jars are excluded from source/release archives.
+
+## Recipe tutorial illustrations
+
+The recipe diagrams in `docs/recipes/` are explanatory documentation compositions. Their small item illustrations refer to Minecraft artwork © Mojang Studios and Create item/model artwork © The Create Team / The Creators of Create. These third-party illustrations are not covered by Clockwork Tides' MIT license. No raw Create/Minecraft texture pack or model resources are added to the mod or release archive.
+
+Layouts and ingredient counts are generated directly from the shipped recipe JSON. The cogwheel illustration is an orthographic documentation rendering of the exact Create 6.0.10 model, including its inherited GUI transform; it is not a raw UV-atlas image or a claim of an in-game screenshot. Original Clockwork Tides rod sprites are used for rod inputs and outputs.
