@@ -6,7 +6,7 @@ Target: Minecraft 1.21.1, NeoForge, Create 6.0.10. All recipes produce one rod i
 
 ## 1. Andesite Fishing Rod / Андезитовая удочка
 
-![Andesite fishing rod — exact 3×3 recipe / Андезитовая удочка — точная схема](recipes/andesite-rod-recipe.png)
+![Andesite fishing rod — exact 3×3 recipe / Андезитовая удочка — точная схема](recipes/andesite-rod-recipe.png?v=vanilla)
 
 [Vector diagram / Векторная схема](recipes/andesite-rod-recipe.svg) · [Recipe JSON](../src/main/resources/data/clockwork_tides/recipe/andesite_rod.json)
 
@@ -26,7 +26,7 @@ R S
 
 ## 2. Copper Fishing Rod / Медная удочка
 
-![Copper fishing rod — exact 3×3 recipe / Медная удочка — точная схема](recipes/copper-rod-recipe.png)
+![Copper fishing rod — exact 3×3 recipe / Медная удочка — точная схема](recipes/copper-rod-recipe.png?v=vanilla)
 
 [Vector diagram / Векторная схема](recipes/copper-rod-recipe.svg) · [Recipe JSON](../src/main/resources/data/clockwork_tides/recipe/copper_rod.json)
 
@@ -46,7 +46,7 @@ R S
 
 ## 3. Brass Fishing Rod / Латунная удочка
 
-![Brass fishing rod — exact 3×3 recipe / Латунная удочка — точная схема](recipes/brass-rod-recipe.png)
+![Brass fishing rod — exact 3×3 recipe / Латунная удочка — точная схема](recipes/brass-rod-recipe.png?v=vanilla)
 
 [Vector diagram / Векторная схема](recipes/brass-rod-recipe.svg) · [Recipe JSON](../src/main/resources/data/clockwork_tides/recipe/brass_rod.json)
 

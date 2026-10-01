@@ -1,6 +1,6 @@
 # Recipe diagrams / Схемы крафтов
 
-Each card shows the exact shaped recipe from `src/main/resources/data/clockwork_tides/recipe/`, an output preview, and total ingredient quantities. Blank cells are intentionally preserved. PNGs are used in the repository README for reliable GitHub rendering; SVGs retain sharp vector text and explicit pixel-art geometry.
+Each vanilla-workbench diagram shows the exact shaped recipe from `src/main/resources/data/clockwork_tides/recipe/` and the resulting rod. Ingredient quantities are listed separately in the repository README. Blank cells are intentionally preserved. PNGs are used in the repository README for reliable GitHub rendering; SVGs retain explicit pixel-art geometry and accessible descriptions. The original Minecraft crafting-table recipe panel, slots and arrow are shown at an integer 4× scale, without decorative text or branding.
 
 `recipe-diagrams.json` records the source paths, all nine cells, ingredient counts and output for automated comparison. No gameplay recipe was changed for this documentation update.
 
